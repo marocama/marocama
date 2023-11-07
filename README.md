@@ -1,7 +1,5 @@
-### 👋 Introduction
-
-<div style="display: flex">
-  <div style="padding-right: 10px">
+<div style='display: flex;'>
+  <div style='padding-right: 20px;'>
     <h3>👋 Introduction</h3>
     <div>
       <img src='https://img.shields.io/badge/status-up-brightgreen'> 
@@ -11,7 +9,7 @@
     <p>I'm a self-taught full stack developer, focusing mainly on the Vue.js and Node.js ecosystem. I am constantly looking to improve my skills and learn new technologies.</p>
     <p>If you share my enthusiasm for technology or have ideas for innovative collaborations, please feel free to get in touch. I am available for discussions and interesting projects.</p>
   </div>
-  <img src='https://media.tenor.com/C66qVGZsvCsAAAAd/dj-doggy-dog.gif' width='200'>
+  <img align='right' src='https://media.tenor.com/C66qVGZsvCsAAAAd/dj-doggy-dog.gif' width='200'>
 </div>
 
 
