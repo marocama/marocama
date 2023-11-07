@@ -1,6 +1,6 @@
 ### Olá 👋
 
-[](https://media.tenor.com/C66qVGZsvCsAAAAd/dj-doggy-dog.gif)
+![](https://media.tenor.com/C66qVGZsvCsAAAAd/dj-doggy-dog.gif)
 
 <div>
   <img loading="lazy" height="180em" src="https://github-stats-marcus-robertos-projects.vercel.app/api?username=marocama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
