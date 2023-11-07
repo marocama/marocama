@@ -11,8 +11,8 @@ I am constantly looking to improve my skills and learn new technologies.
 If you share my enthusiasm for technology or have ideas for innovative collaborations, please feel free to get in touch. I am available for discussions and interesting projects.
 
 <div>
-  <img loading="lazy" height="180em" src="https://github-stats-marcus-robertos-projects.vercel.app/api?username=marocama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img loading="lazy" height="180em" src="https://github-stats-marcus-robertos-projects.vercel.app/api/top-langs/?username=marocama&hide_progress=true&langs_count=15&theme=dracula" />
+  <img loading="lazy" height="180em" src="https://github-stats-marcus-robertos-projects.vercel.app/api?username=marocama&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img loading="lazy" height="180em" src="https://github-stats-marcus-robertos-projects.vercel.app/api/top-langs/?username=marocama&hide_progress=true&langs_count=15&theme=prussian" />
 </div>
 
 ### 💻  Languages, technologies and tools
