@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm **Marcus Roberto**.
+### 👋  Hi there, I'm **Marcus Roberto**.
 
 <img align='right' src='https://media.tenor.com/C66qVGZsvCsAAAAd/dj-doggy-dog.gif' width='185' style='padding-left: 25px;'>
 
@@ -15,7 +15,7 @@ If you share my enthusiasm for technology or have ideas for innovative collabora
   <img loading="lazy" height="180em" src="https://github-stats-marcus-robertos-projects.vercel.app/api/top-langs/?username=marocama&hide_progress=true&langs_count=15&theme=dracula" />
 </div>
 
-#### 💻 Languages, technologies and tools
+#### 💻  Languages, technologies and tools
 
 <div align="center" style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" loading="lazy" width="30" height="30" />
@@ -34,6 +34,4 @@ If you share my enthusiasm for technology or have ideas for innovative collabora
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" loading="lazy" width="30" height="30" />      
 </div>
 
-<div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=all" width="30" height="30" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,js,ts,vue,nuxtjs,nodejs,nestjs,express,php,laravel,flutter,graphql,rabbitmq,nginx,firebase,supabase,mongodb,mysql,tailwind)](https://skillicons.dev)
