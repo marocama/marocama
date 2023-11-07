@@ -33,3 +33,7 @@ If you share my enthusiasm for technology or have ideas for innovative collabora
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" loading="lazy" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" loading="lazy" width="30" height="30" />      
 </div>
+
+<div style="display: inline_block">
+  <img src="https://skillicons.dev/icons?i=all" width="30" height="30" />
+</div>
